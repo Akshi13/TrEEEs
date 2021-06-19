@@ -5,14 +5,15 @@ A travel destinations’ review website
 
 ### Features
 
-<li>User Authentication</li>
+<li>User Authentication.</li>
 
 <li>Add, edit or delete your own travel site.</li>
 
-<li>All locations are marked on map</li>
+<li>All locations are marked on map.</li>
 
 <li>Supports posting review and comments, and editing
-previous submissions</li>
+previous submissions.</li>
+<li>Responsive Web Design.</li>
 
 ### Built With
 <li> Node.js </li>
@@ -21,4 +22,4 @@ previous submissions</li>
 <li> MapBox </li>
 <li> MongoDB </li>
 <li> EJS </li>
-<li> Helmet </li>
+
